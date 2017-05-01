@@ -1,4 +1,4 @@
-# Databits-Challenge---Interactive-Data-Visualisation-Toronto-Medical-Store-Customer-Visits
+# Interactive Data Visualisation (Databits Challenge) Toronto Medical Store Customer Visits
 
 Stores selling specialist products such as medical devices need a targeted marketing approach to ensure they are constantly encouraging new clients to purchase their products and also retaining their loyal clients. Gaining an understanding of patterns of customer behaviour is an interesting and profitable venture for specialist companies. Data visualisation provides a useful tool for generating complex and hidden insights which are not obvious through domain knowledge or by simple numerical calculations on data tables. This background motivation was the key for the framing of the research questions for this project, which could provide
 useful insights into customer behaviour based on customer data provided for an anonymised medical supply store chain in Toronto. The following research questions were investigated:
